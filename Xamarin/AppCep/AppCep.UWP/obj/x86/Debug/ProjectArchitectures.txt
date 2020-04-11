@@ -1,0 +1,1 @@
+C:\GitHub\Xamarin\AppCep\AppCep.UWP\AppCep.UWP.csproj;x86

@@ -1,0 +1,14 @@
+C:\GitHub\Xamarin\AppCep\AppCep\bin\Debug\netstandard2.0\AppCep.deps.json
+C:\GitHub\Xamarin\AppCep\AppCep\bin\Debug\netstandard2.0\AppCep.dll
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.csprojAssemblyReference.cache
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.AssemblyInfoInputs.cache
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.AssemblyInfo.cs
+C:\GitHub\Xamarin\AppCep\AppCep\bin\Debug\netstandard2.0\ref\AppCep.dll
+C:\GitHub\Xamarin\AppCep\AppCep\bin\Debug\netstandard2.0\AppCep.pdb
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.csproj.CoreCompileInputs.cache
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.dll
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\ref\AppCep.dll
+C:\GitHub\Xamarin\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.pdb

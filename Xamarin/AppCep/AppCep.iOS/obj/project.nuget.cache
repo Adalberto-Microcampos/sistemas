@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/n8OtxrvU70gDH3M7AafBHTlfkYEPEuFj6oIcJldXfekWWe47kKqpIHPqz5HFNWbfvqhsXR+TDOHQ58lrthFg==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\Xamarin\\AppCep\\AppCep.iOS\\AppCep.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adalb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Adalb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
