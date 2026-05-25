@@ -13,6 +13,7 @@ namespace AppCep.Servico
   
         public static Endereco BuscaEnderecoViaCEP(string cep)
         {
+            // Lendo CEP
             string NovoEnderecoUrl = string.Format(EnderecoUrl, cep);
             WebClient wc = new WebClient();
            string conteudo = wc.DownloadString(NovoEnderecoUrl);
