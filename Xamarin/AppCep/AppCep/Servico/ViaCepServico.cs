@@ -10,18 +10,29 @@ namespace AppCep.Servico
     public class ViaCepServico
     {
         private static string EnderecoUrl = "https://viacep.com.br/ws/{0}/json/";
-  
+
         public static Endereco BuscaEnderecoViaCEP(string cep)
         {
             // Lendo CEP
             string NovoEnderecoUrl = string.Format(EnderecoUrl, cep);
             WebClient wc = new WebClient();
-           string conteudo = wc.DownloadString(NovoEnderecoUrl);
+            string conteudo = wc.DownloadString(NovoEnderecoUrl);
 
             Endereco end = JsonConvert.DeserializeObject<Endereco>(conteudo);
 
             return end;
-        } 
-    
+        }
+
+        public static Endereco BuscaEnderecoViaCEP(string cep, string complemento)
+        {
+            // Lendo CEP
+            string NovoEnderecoUrl = string.Format(EnderecoUrl, cep);
+            WebClient wc = new WebClient();
+            string conteudo = wc.DownloadString(NovoEnderecoUrl);
+            Endereco end = JsonConvert.DeserializeObject<Endereco>(conteudo);
+           
+            return end;
+
+        }
     }
 }
